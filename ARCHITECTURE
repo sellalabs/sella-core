@@ -1,0 +1,114 @@
+# Sella Core Architecture
+
+## Overview
+
+Sella Core is designed as a modular AI-native communication infrastructure composed of interconnected layers responsible for orchestration, storytelling, memory and creative generation.
+
+---
+
+# Core System Layers
+
+## 1. Prompt Layer
+
+The Prompt Layer contains reusable prompt architectures designed for modular interaction with language and multimodal models.
+
+Responsibilities:
+- reusable instructions
+- prompt templates
+- role systems
+- generation structures
+- orchestration primitives
+
+Directory:
+```bash
+/prompts
+```
+
+---
+
+## 2. Agent Layer
+
+The Agent Layer defines autonomous AI agents specialized in specific communication and strategic functions.
+
+Example agents:
+- Storytelling Agent
+- Creative Director Agent
+- Brand Strategy Agent
+- Narrative Memory Agent
+- Campaign Orchestrator
+
+Directory:
+```bash
+/agents
+```
+
+---
+
+## 3. Workflow Layer
+
+The Workflow Layer connects prompts and agents into structured pipelines capable of generating coordinated outputs.
+
+Responsibilities:
+- orchestration logic
+- execution flows
+- multi-agent pipelines
+- task sequencing
+- output refinement
+
+Directory:
+```bash
+/workflows
+```
+
+---
+
+## 4. System Layer
+
+The System Layer defines shared infrastructure, governance rules and memory architecture.
+
+Responsibilities:
+- memory systems
+- orchestration rules
+- context management
+- shared logic
+- modular interoperability
+
+Directory:
+```bash
+/system
+```
+
+---
+
+## 5. Output Layer
+
+The Output Layer is responsible for generating final assets and communication artifacts.
+
+Examples:
+- campaigns
+- brand systems
+- narratives
+- creative direction
+- strategic frameworks
+
+Directory:
+```bash
+/examples
+```
+
+---
+
+# Design Philosophy
+
+Sella Core is being developed around:
+- modularity
+- scalability
+- composability
+- collaborative intelligence
+- human + AI orchestration
+
+---
+
+# Long-Term Goal
+
+To create an open infrastructure layer for AI-native storytelling and autonomous creative systems.
