@@ -1,0 +1,72 @@
+# Sella Core Roadmap
+
+## Phase 01 — Foundation
+
+### Completed
+- Initial repository architecture
+- Manifesto and philosophy
+- Core system documentation
+- Prompt system foundations
+- Workflow architecture
+- Brand memory system
+- Campaign generation pipeline
+- Initial example outputs
+
+---
+
+## Phase 02 — Modular Systems
+
+### Goals
+- Expand prompt architectures
+- Create reusable workflow modules
+- Develop orchestration patterns
+- Build narrative system templates
+- Standardize communication pipelines
+
+### Planned Components
+- Visual Direction Engine
+- Narrative Compression System
+- Audience Adaptation Layer
+- AI Creative Brief Generator
+- Brand Tone Engine
+
+---
+
+## Phase 03 — Agent Infrastructure
+
+### Goals
+- Define autonomous agent behaviors
+- Implement multi-agent coordination
+- Establish context-sharing systems
+- Create orchestration governance
+
+### Planned Agents
+- Storytelling Agent
+- Campaign Director Agent
+- Visual Strategy Agent
+- Brand Memory Agent
+- Research Agent
+
+---
+
+## Phase 04 — Experimental Prototypes
+
+### Goals
+- Create executable workflows
+- Develop generation interfaces
+- Build prototype orchestration systems
+- Explore adaptive memory structures
+
+### Research Areas
+- persistent memory
+- multimodal generation
+- autonomous iteration
+- adaptive storytelling
+- collaborative intelligence systems
+
+---
+
+## Phase 05 — Open Infrastructure
+
+### Long-Term Vision
+Build an open AI-native infrastructure layer for scalable storytelling, creative orchestration and autonomous communication systems.
