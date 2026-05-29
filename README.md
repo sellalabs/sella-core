@@ -1,89 +1,138 @@
-# Sella Core
+# ⚡ Sella Core AI Engine
 
-Open infrastructure for AI-native storytelling, creative orchestration and autonomous brand systems.
-
----
-
-## Vision
-
-Sella Core is an open framework designed to explore the future of AI-native communication systems.
-
-The project focuses on modular storytelling, autonomous creative orchestration and scalable brand intelligence workflows powered by human + AI collaboration.
+**An AI-native campaign generation system for narrative-driven branding.**
 
 ---
 
-## Core Principles
+## 🧠 Overview
 
-- AI-native creative systems
-- Modular orchestration
-- Autonomous storytelling workflows
-- Open infrastructure
-- Human + AI collaboration
-- Scalable narrative systems
+Sella Core is a lightweight AI campaign engine designed to generate structured, high-quality marketing campaigns using modular narrative logic.
 
----
-
-## System Layers
-
-### Prompt Layer
-Reusable prompt architectures and modular AI instructions.
-
-### Agent Layer
-Autonomous creative agents specialized in:
-- storytelling
-- copy systems
-- visual direction
-- campaign generation
-- strategic orchestration
-
-### Workflow Layer
-Composable pipelines connecting prompts, agents and outputs.
-
-### Output Layer
-Generation systems for:
-- campaigns
-- brand systems
-- narrative assets
-- creative strategy
-- communication frameworks
+It transforms simple inputs (brand, audience, objective) into:
+- campaign concepts
+- narrative directions
+- creative hooks
+- structured outputs
+- exportable `.md` files
 
 ---
 
-## Repository Structure
+## 🚀 What it does
 
-```bash
-/docs
-/prompts
-/agents
-/workflows
-/system
-/examples
+Given a brand input, Sella Core generates:
+
+- 3 unique campaign variants
+- tone-based creative direction
+- narrative positioning
+- structured markdown output
+- automatic file export to `/examples`
+
+---
+
+## ⚙️ Core Engine
+
+The system is built around 3 principles:
+
+### 1. Narrative Generation
+Transforms abstract brand inputs into structured storytelling.
+
+### 2. Creative Randomization
+Uses controlled randomness to generate multiple campaign directions.
+
+### 3. Output Serialization
+Exports results into clean `.md` files for reuse, documentation or portfolio.
+
+---
+
+## 🧪 Example Input
+
+```
+Brand: The Sella  
+Audience: luxury startups  
+Objective: premium AI positioning  
+Tone: luxury
 ```
 
 ---
 
-## Current Status
+## 🎯 Example Output
 
-Early open-source research and development.
+The engine generates structured campaign variants like:
 
----
+### Campaign Hook
+Luxury is silence made visible.
 
-## Roadmap
+### Creative Direction
+A campaign built around cinematic minimalism and premium editorial aesthetics.
 
-- Modular prompt systems
-- Multi-agent orchestration
-- Brand memory architecture
-- Autonomous campaign pipelines
-- Open creative infrastructure
-
----
-
-## Philosophy
-
-We believe the future of communication will be built through collaborative systems where humans and AI co-create scalable narrative experiences.
+### Narrative
+The Sella positions itself as a forward-thinking brand focused on premium AI positioning, targeting luxury startups through emotionally-driven storytelling.
 
 ---
 
-## License
+## 📁 Output System
 
-MIT
+All generated campaigns are automatically saved to:
+
+```
+/examples
+```
+
+Example file:
+
+```
+output_20260530_014532.md
+```
+
+---
+
+## 🧩 Project Structure
+
+```
+sella-core/
+│
+├── tools/
+│   └── campaign_generator.py
+│
+├── examples/
+│   └── output_*.md
+│
+├── README.md
+└── ROADMAP.md
+```
+
+---
+
+## 🧠 Philosophy
+
+Sella Core is not just a script.
+
+It is a **minimal AI creative system** designed to explore:
+
+- AI-assisted storytelling
+- modular campaign generation
+- structured creative thinking
+- lightweight AI tooling for branding
+
+---
+
+## 🔮 Vision
+
+The long-term vision is to evolve into:
+
+> an AI-native creative infrastructure for generating brand systems, campaigns, and narrative ecosystems.
+
+---
+
+## 🛠 Status
+
+```
+MVP — functional prototype
+```
+
+---
+
+## 📌 Author
+
+Sella Labs  
+Experimental AI systems for creative intelligence.
